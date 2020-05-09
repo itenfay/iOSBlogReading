@@ -1,8 +1,11 @@
 ## iOSBlogReading
 
-专注于精选 iOS/macOS X 开发者博客
 
-===
+专注于精选 iOS/macOS X 开发者博客。
+
+
+---
+
 
 博客列表会不断更新维护，如果有推荐的博客，请到此处[提交博客信息](https://github.com/dgynfi/iOSBlogReading/issues/1)。
 
@@ -11,7 +14,9 @@
 - 按最后更新时间倒序排列。
 - Feed列说明: `feed` 支持 RSS/Atom ; `jianshu` 简书 ; `空白` 不支持 RSS/Atom 暂不支持爬取。
 
-===
+
+---
+
 
 Blog | Feed | Update Time
 -----|------|-----
