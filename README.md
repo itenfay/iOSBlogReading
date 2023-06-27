@@ -7,7 +7,7 @@
 ---
 
 
-博客列表会不断更新维护，如果有推荐的博客，请到此处[提交博客信息](https://github.com/dgynfi/iOSBlogReading/issues/1)。
+博客列表会不断更新维护，如果有推荐的博客，请到此处[提交博客信息](https://github.com/chenxing640/iOSBlogReading/issues/1)。
 
 - 感谢 [tangqiaoboy](https://github.com/tangqiaoboy/iOSBlogCN) 提供基础数据.
 - 此列表大约每天更新一次。
@@ -111,7 +111,7 @@ Blog | Feed | Update Time
 [树下的老男孩 - 简书](http://www.jianshu.com/users/811a70f4726a/latest_articles) | [jianshu](https://everettjf.github.io/app/blogreader/spider/jianshu/326.json) |  
 [树下的老男孩](http://freemind-lj.github.io/) | []() |  
 [Cocoaphony](http://robnapier.net/) | []() |  
-[风之痕_ - 简书](http://www.jianshu.com/users/786ab819976a/latest_articles) | [jianshu](https://everettjf.github.io/app/blogreader/spider/jianshu/331.json) |  
+[风之痕_- 简书](http://www.jianshu.com/users/786ab819976a/latest_articles) | [jianshu](https://everettjf.github.io/app/blogreader/spider/jianshu/331.json) |  
 [ZeroJ - 简书](http://www.jianshu.com/users/fb31a3d1ec30/latest_articles) | [jianshu](https://everettjf.github.io/app/blogreader/spider/jianshu/337.json) |  
 
 ---
